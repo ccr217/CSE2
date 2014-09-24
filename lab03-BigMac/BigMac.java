@@ -11,8 +11,7 @@ public class BigMac {
 Scanner myScanner;
 myScanner = new Scanner (System.in);
 
-System.out.print(
- "Enter the number of Big Macs(an integer > 0): ");
+System.out.print("Enter the number of Big Macs(an integer > 0): ");
  
  int nBigMacs = myScanner.nextInt();
  
