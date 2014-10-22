@@ -1,6 +1,12 @@
+//Caroline Ruffing 
+// CSE 002 Section 111
+//hw07
+
 import java.util.Scanner;
 public class NumberStack{
-    public static void main(String[] arg){
+    			  // main s required for every Java program
+   			  public static void main(String[] args) {
+
 	Scanner scan=new Scanner(System.in);
 
 	System.out.print("Enter an int between 1 and 9- ");
